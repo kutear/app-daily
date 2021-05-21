@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 不止日报-下载
 
-You can use the [editor on GitHub](https://github.com/kutear/app-daily/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+不止日报是一款整合热门资讯的聚合消息软件，意在为用户以最小的时间花费获取到更多的消息。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 实时
+应用数据更新即使，让你不会错过任何热点
 
-### Markdown
+### 便捷
+聚合多方平台数据，减少不用应用之间切换的成本
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 干净
+应用没有任何广告植入，给你舒适的用户体验
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kutear/app-daily/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+如有任何建议以及其他事项欢迎通过以下方式联系我们：
+daily@kutear.com
