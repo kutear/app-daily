@@ -29,9 +29,10 @@
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
-        
         <a href="{{ site.github.apk_url }}" class="btn">下载应用</a>
-        
+      {% endif %}
+      {% if site.show_telegram %}
+      <a href="{{ site.github.telegram_url }}" class="btn">Telegram</a>
       {% endif %}
     </header>
 

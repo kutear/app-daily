@@ -3,7 +3,9 @@ theme: jekyll-theme-cayman
 title: 不止日报
 description: 小巧而丰富的阅读平台，聚合热门资讯平台消息，给你更加便捷的摸鱼体验。
 show_downloads: true
+show_telegram: true
 
 github:
   apk_url: https://raw.githubusercontent.com/kutear/app-daily/gh-pages/bin/app-daily.apk
+  telegram_url: https://t.me/joinchat/SKTC4oT3lisFSyXu
   is_project_page: false
