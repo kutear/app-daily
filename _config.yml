@@ -2,3 +2,8 @@ theme: jekyll-theme-cayman
 
 title: 不止日报
 description: 小巧而丰富的阅读平台，聚合热门资讯平台消息，给你更加便捷的摸鱼体验。
+show_downloads: true
+
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
