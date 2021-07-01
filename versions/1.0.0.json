@@ -2,6 +2,7 @@
   "tabs": [
         "main",
         "site",
-        "profile"
+        "profile",
+        "setting"
   ]
 }
