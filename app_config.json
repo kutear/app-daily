@@ -4,6 +4,7 @@
     "enable": true,
     "type": "pangle",
     "article_top_union_switch": true,
-    "article_bottom_union_switch": true
+    "article_bottom_union_switch": true,
+    "article_list_insert_switch": false
   }
 }
