@@ -1,3 +1,8 @@
 {
-  "enable_ad": false
+  "enable_ad": false,
+  "union_module": {
+    "enable": true,
+    "article_top_union_switch": true,
+    "article_bottom_union_switch": true
+  }
 }
