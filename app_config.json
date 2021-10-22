@@ -2,7 +2,7 @@
   "enable_ad": false,
   "union_module": {
     "enable": true,
-    "type": "pangle"
+    "type": "pangle",
     "article_top_union_switch": true,
     "article_bottom_union_switch": true
   }
