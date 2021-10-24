@@ -3,8 +3,8 @@
   <channel>
     <title>不止日报</title>
     <item>
-        <title>Version 1.9.4</title>
-        <sparkle:version>1.9.4</sparkle:version>
+        <title>Version 1.9.5</title>
+        <sparkle:version>1.9.5</sparkle:version>
         <enclosure url="market://details?id=com.kutear.notonlydaily"/>
     </item>
   </channel>
