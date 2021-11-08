@@ -6,6 +6,6 @@ show_downloads: true
 show_telegram: true
 
 github:
-  apk_url: https://raw.githubusercontent.com/kutear/app-daily/gh-pages/bin/app-daily.apk
+  apk_url: https://www.coolapk.com/apk/130445
   telegram_url: https://t.me/joinchat/SKTC4oT3lisFSyXu
   is_project_page: false
