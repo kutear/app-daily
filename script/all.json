@@ -8,6 +8,10 @@
         {
             "desc": "知乎移动端移除底部推荐",
             "url": "zhihu_recommend.js?v=1"
+        },
+        {
+            "desc": "知乎app弹窗",
+            "url": "zhihu_pop_windows.txt?v=1"
         }
     ]
 }
