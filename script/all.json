@@ -2,16 +2,24 @@
     "baseUrl": "https://app-daily.vercel.app/script/", 
     "scripts": [
         {
-            "desc": "页面大小变化监听",
-            "url": "page_size_changed_listener.js?v=1"
+            "desc": "基础JS",
+            "url": "common.js?v=1"
         },
         {
-            "desc": "知乎移动端移除底部推荐",
-            "url": "zhihu_recommend.js?v=1"
+            "desc": "知乎app弹窗 && 移除底部推荐",
+            "url": "zhihu.js?v=1"
         },
         {
-            "desc": "知乎app弹窗",
-            "url": "zhihu_pop_windows.txt?v=1"
+            "desc": "36KR app弹窗",
+            "url": "36kr.js?v=1"
+        },
+        {
+            "desc": "华尔街见闻",
+            "url": "wallstreetch.js?v=1"
+        },
+        {
+            "desc": "虎嗅网",
+            "url": "huxiu.js?v=1"
         }
     ]
 }
