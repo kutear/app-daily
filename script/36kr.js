@@ -6,6 +6,7 @@
 // @author       KuTear
 // @license      GPL-3.0 License
 // @match        *://www.36kr.com/*
+// @match        *://m.36kr.com/p/*
 // @grant GM_addStyle
 // @run-at document-start
 // ==/UserScript==
