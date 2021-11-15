@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         虎嗅网
-// @namespace    https://github.com/KuTear/app-daily/script/36kr.js
+// @namespace    https://github.com/KuTear/app-daily/script/huxiu.js
 // @version      0.0.1
 // @description  虎嗅网
 // @author       KuTear
