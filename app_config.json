@@ -10,6 +10,10 @@
     "rsshub.app" : {
       "host": "rsshub.kutear.com",
       "scheme": "https"
+    },
+    "rsshub.uneasy.win": {
+      "host": "rsshub.kutear.com",
+      "scheme": "https"
     }
   }
 }
